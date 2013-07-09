@@ -1,4 +1,0 @@
-HadoopProgs
-===========
-
-Programs for Hadoop
